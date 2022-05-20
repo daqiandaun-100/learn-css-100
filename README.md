@@ -31,7 +31,7 @@
 * [`CSS Basic User Interface` - CSS 基本 UI 特性](https://www.w3.org/TR/css-ui-3/)
 * [`CSS Box Model` - CSS 盒模型](https://www.w3.org/TR/css-box-3/)
 * [`CSS Backgrounds and Borders` - CSS 背景与边框](https://www.w3.org/TR/css-backgrounds-3/)
-* [`CSS Color` - CSS 颜色](https://www.w3.org/TR/css-color-3/)
+* [`CSS Color` - CSS 颜色](./color/)
 * [`CSS Images` - CSS 图像](https://www.w3.org/TR/css-images-3/)
 * [`CSS Overflow` - CSS 溢出](https://www.w3.org/TR/css-overflow-3/)
 

@@ -32,7 +32,7 @@
 * [`CSS Box Model` - CSS 盒模型](https://www.w3.org/TR/css-box-3/)
 * [`CSS Backgrounds and Borders` - CSS 背景与边框](./backgrounds/)
 * [`CSS Color` - CSS 颜色](./color/)
-* [`CSS Images` - CSS 图像](https://www.w3.org/TR/css-images-3/)
+* [`CSS Images` - CSS 图像](./images/)
 * [`CSS Overflow` - CSS 溢出](https://www.w3.org/TR/css-overflow-3/)
 
 如果某个模块是前所未有的新概念，那它的版本号将从 **`1`** 开始

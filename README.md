@@ -28,7 +28,7 @@
 * [`CSS Fonts` - CSS 字体](https://www.w3.org/TR/css-fonts-3/)
 * [`CSS Text` - CSS 文本排版](https://www.w3.org/TR/css-text-3)
 * [`CSS Text Decoration` - CSS 文本装饰效果](https://www.w3.org/TR/css-text-decor-3/)
-* [`CSS Basic User Interface` - CSS 基本 UI 特性](https://www.w3.org/TR/css-ui-3/)
+* [`CSS Basic User Interface` - CSS 基本 UI 特性](./ui/)
 * [`CSS Box Model` - CSS 盒模型](https://www.w3.org/TR/css-box-3/)
 * [`CSS Backgrounds and Borders` - CSS 背景与边框](https://www.w3.org/TR/css-backgrounds-3/)
 * [`CSS Color` - CSS 颜色](./color/)

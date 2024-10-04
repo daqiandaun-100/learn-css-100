@@ -8,7 +8,7 @@
 **属性**
 
 * 调整元素显示方式: `display`
-* 宽度: `width`
+* 宽度: `width` (`81、day05_CSS的继承_层叠_类型和CSS盒子模型_07_(掌握)display的值-block-inline`)
 * 高度: `height`
 
 ## 重要概念
